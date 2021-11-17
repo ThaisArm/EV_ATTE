@@ -1,4 +1,8 @@
-Thais Eliana
 Armijos Troya
+<<<<<<< HEAD
 Java, C++
 MySQL, MariaBD
+=======
+Thais Eliana
+0998365697
+>>>>>>> develop
