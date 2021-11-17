@@ -1,2 +1,4 @@
 Thais Eliana
 Armijos Troya
+Java, C++
+MySQL, MariaBD
